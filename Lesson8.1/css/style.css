@@ -1,0 +1,49 @@
+
+.cube{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+  
+  
+
+}
+.cube1{
+    
+    top: 100px;
+    left: 100px;
+    
+}
+.cube2{
+   
+    top: 0px;
+    right:0px;
+
+}
+.cube3{
+   
+    bottom:0px;
+    left:0px;
+}
+.cube4{
+   
+    bottom: 100px;
+    left:100px;
+}
+
+.cube5 {
+    top:100px;
+    right:100px;
+}
+.cube6{
+    top:0px;
+    left: 0px;
+}
+.cube7{
+    bottom:0px;
+    right: 0px;
+}
+.cube8{
+    bottom: 100px;
+    right:100px;
+}
